@@ -1,1 +1,4 @@
-
+User-agent: *
+Disallow: /feed
+Disallow: /comments/feed
+Sitemap: https://www.kingonlinehub.com/sitemap.xml
