@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for KING Online HUB	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.kingonlinehub.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.kingonlinehub.com/</link>
 	<description>India&#039;s Biggest Betting Platform</description>
 	<lastBuildDate>Thu, 07 Oct 2021 10:10:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

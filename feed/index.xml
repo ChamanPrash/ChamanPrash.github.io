@@ -9,8 +9,8 @@
 
 <channel>
 	<title>KING Online HUB</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.kingonlinehub.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.kingonlinehub.com/</link>
 	<description>India&#039;s Biggest Betting Platform</description>
 	<lastBuildDate>Thu, 07 Oct 2021 10:10:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-king_online_hub_favicon-min-32x32.png</url>
+	<url>https://www.kingonlinehub.com/wp-content/uploads/2021/08/cropped-king_online_hub_favicon-min-32x32.png</url>
 	<title>KING Online HUB</title>
-	<link>/</link>
+	<link>https://www.kingonlinehub.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
